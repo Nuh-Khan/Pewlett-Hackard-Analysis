@@ -22,7 +22,7 @@ The main objective of this analysis is to identify all current employees who are
 
 ## Summary
 
-### Important questions
+### Questions
 - Should all eligible employees decide to retire this year, the company would need to fill 72,458 positions.
 - With a mere 1,940 employees eligible for the current mentorship program, the company may face a significant knowledge gap in the near future. This situation calls for dedicating resources to ensure the maintenance of existing service standards.
 
